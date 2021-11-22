@@ -1,170 +1,178 @@
 {
-	"MIM": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MIM/logo.png",
-		"coingeckoId": "magic-internet-money"
-	},
-	"USDT": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-		"denomination": 6,
-		"chainlinkFeedAddress": "0x0bF499444525a23E7Bb61997539725cA2e928138",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png",
-		"coingeckoId": "tether"
-	},
-	"DAI": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png",
-		"coingeckoId": "dai"
-	},
-	"LINK": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
-		"coingeckoId": "chainlink"
-	},
-	"SUSHI": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0xe572CeF69f43c2E488b33924AF04BDacE19079cf",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png",
-		"coingeckoId": "sushi"
-	},
-	"BUSD": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png",
-		"coingeckoId": "binance-usd"
-	},
-	"UNI": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png",
-		"coingeckoId": "uniswap"
-	},
-	"WETH": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
-		"coingeckoId": "weth"
-	},
-	"GRT": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x17D054eCac33D91F7340645341eFB5DE9009F1C1",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png",
-		"coingeckoId": "the-graph"
-	},
-	"AAVE": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png",
-		"coingeckoId": "aave"
-	},
-	"BAT": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png",
-		"coingeckoId": "basic-attention-token"
-	},
-	"ZRX": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png",
-		"coingeckoId": "0x"
-	},
-	"UMA": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0xf817B69EA583CAFF291E287CaE00Ea329d22765C",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UMA/logo.png",
-		"coingeckoId": "uma"
-	},
-	"WBTC": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-		"denomination": 8,
-		"chainlinkFeedAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
-		"coingeckoId": "wrapped-bitcoin"
-	},
-	"1INCH": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png",
-		"coingeckoId": "1inch"
-	},
-	"SNX": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png",
-		"coingeckoId": "havven"
-	},
-	"YFI": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png",
-		"coingeckoId": "yearn-finance"
-	},
-	"COMP": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png",
-		"coingeckoId": "compound-governance-token"
-	},
-	"MKR": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
-		"coingeckoId": "maker"
-	},
-	"SWAP": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0xffa4Bb3a24B60C0262DBAaD60d77a3c3fa6173e8",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SWAP/logo.png",
-		"coingeckoId": "trustswap"
-	},
-	"USDC": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-		"denomination": 6,
-		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
-		"coingeckoId": "usd-coin"
-	}
+  "MIM": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MIM/logo.png",
+    "coingeckoId": "magic-internet-money"
+  },
+  "USDT": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "denomination": 6,
+    "chainlinkFeedAddress": "0x0bF499444525a23E7Bb61997539725cA2e928138",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png",
+    "coingeckoId": "tether"
+  },
+  "DAI": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png",
+    "coingeckoId": "dai"
+  },
+  "LINK": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
+    "coingeckoId": "chainlink"
+  },
+  "SUSHI": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0xe572CeF69f43c2E488b33924AF04BDacE19079cf",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png",
+    "coingeckoId": "sushi"
+  },
+  "BUSD": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png",
+    "coingeckoId": "binance-usd"
+  },
+  "UNI": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png",
+    "coingeckoId": "uniswap"
+  },
+  "WETH": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
+    "coingeckoId": "weth"
+  },
+  "GRT": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x17D054eCac33D91F7340645341eFB5DE9009F1C1",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png",
+    "coingeckoId": "the-graph"
+  },
+  "AAVE": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png",
+    "coingeckoId": "aave"
+  },
+  "BAT": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png",
+    "coingeckoId": "basic-attention-token"
+  },
+  "ZRX": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png",
+    "coingeckoId": "0x"
+  },
+  "UMA": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0xf817B69EA583CAFF291E287CaE00Ea329d22765C",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UMA/logo.png",
+    "coingeckoId": "uma"
+  },
+  "WBTC": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "denomination": 8,
+    "chainlinkFeedAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
+    "coingeckoId": "wrapped-bitcoin"
+  },
+  "1INCH": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png",
+    "coingeckoId": "1inch"
+  },
+  "SNX": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png",
+    "coingeckoId": "havven"
+  },
+  "YFI": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png",
+    "coingeckoId": "yearn-finance"
+  },
+  "COMP": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png",
+    "coingeckoId": "compound-governance-token"
+  },
+  "MKR": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
+    "coingeckoId": "maker"
+  },
+  "SWAP": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0xffa4Bb3a24B60C0262DBAaD60d77a3c3fa6173e8",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SWAP/logo.png",
+    "coingeckoId": "trustswap"
+  },
+  "USDC": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "denomination": 6,
+    "chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
+    "coingeckoId": "usd-coin"
+  },
+  "PAXG": {
+    "nativeNetwork": "ethereum",
+    "nativeContractAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "denomination": 18,
+    "chainlinkFeedAddress": "0x9B97304EA12EFed0FAd976FBeCAad46016bf269e",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/PAXG/logo.png",
+    "coingeckoId": "pax-gold"
+  }
 }
