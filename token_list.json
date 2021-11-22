@@ -172,7 +172,7 @@
     "nativeContractAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78",
     "denomination": 18,
     "chainlinkFeedAddress": "0x9B97304EA12EFed0FAd976FBeCAad46016bf269e",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+    "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/PAXG/logo.png",
     "coingeckoId": "pax-gold"
   }
 }
